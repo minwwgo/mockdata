@@ -1,2 +1,0 @@
-# mockdata
-test mock data
